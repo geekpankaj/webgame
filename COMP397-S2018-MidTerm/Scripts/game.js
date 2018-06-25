@@ -1,7 +1,7 @@
 //Name: Pankaj Talwar
 //Date: June 25th 2018
-//Program: When we click on the start button, we have to show that images randomly and have to show the 
-//         number we got on the dice.
+//Program: When we click on the start button, we have to show the images randomly in accordance with the random number 
+//         generated and have to show the number we got on the dice in label.
 
 let app;
 (function(app) {
